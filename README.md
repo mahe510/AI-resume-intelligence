@@ -75,7 +75,6 @@ The system is designed to be simple, explainable, and practical, focusing on rea
 ## Future Scope
 
 - Machine learning–based skill extraction
-- Resume similarity scoring
 - Live job market analysis
 - Personalized upskilling recommendations
 
