@@ -1,10 +1,10 @@
 function DemandCard({ skills, score }) {
   return (
     <div className="card">
-      <h3>Market Demand</h3>
+      <h3>Demand Compatibility</h3>
 
       <p className="score">
-        Demand Score: <b>{score}%</b>
+        Market Alignment Score: <b>{score}%</b>
       </p>
 
       <ul>

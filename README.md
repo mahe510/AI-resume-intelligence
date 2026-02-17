@@ -79,6 +79,17 @@ The system is designed to be simple, explainable, and practical, focusing on rea
 - Personalized upskilling recommendations
 
 ---
+frontend run:
+cdvfrontend\resume-analyzer-frontend
+npm run dev
+
+backend run:
+.\venv\Scripts\activate
+pip install -r backend/requirements.txt
+
+uvicorn backend.main:app --reload
+
+
 
 ## Author
 
